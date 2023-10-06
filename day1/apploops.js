@@ -103,6 +103,6 @@ for (men of mens){
 
 for(up of upper){
     for(down of up){
-        console.log(down)
+        console.log(down);
     }
 }
